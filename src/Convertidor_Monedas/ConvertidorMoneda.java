@@ -1,5 +1,5 @@
 
-package Conversor_Monedas;
+package Convertidor_Monedas;
 
 public class ConvertidorMoneda { //Clase
 	

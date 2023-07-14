@@ -1,4 +1,4 @@
-package Conversor_Monedas;
+package Convertidor_Monedas;
 
 import javax.swing.JOptionPane;
 
