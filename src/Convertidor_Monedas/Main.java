@@ -12,7 +12,7 @@ public class Main {
         while (ejecutar) {
             String[] opciones = { "Conversor de Moneda", "Conversor de Temperatura", "Salir" };
             String opcionSeleccionada = (String) JOptionPane.showInputDialog(null,
-                    "Seleccione una opción", "Bienvenidos a Convertidor de Monedas", JOptionPane.QUESTION_MESSAGE, null,
+                    "Seleccione una opción", "Convertidor de Richard Potosi", JOptionPane.QUESTION_MESSAGE, null,
                     opciones, opciones[0]);
             
             
