@@ -5,7 +5,7 @@ public class ConvertidorMoneda { //Clase
 	
 	//Atributos
 	
-	double tipoCambioDolar = 4.197;  // Tipo de cambio de tu país a Dólar
+	double tipoCambioDolar = 4.196;  // Tipo de cambio de tu país a Dólar
     double tipoCambioEuro = 4.601;  // Tipo de cambio de tu país a Euro
     double tipoCambioLibra = 5.385;  // Tipo de cambio de tu país a Libra Esterlina
     double tipoCambioYen = 29.82;  // Tipo de cambio de tu país a Yen Japonés
